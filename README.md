@@ -30,7 +30,7 @@ This project is heavily inspired by [Jonas Schmedtmann](https://github.com/jonas
 
 ### 🙏 Credits
 
-A big thank you to **Jonas Schmedtmann** for his fantastic teaching and guidance throughout the course.  
+A big thanks to **Jonas Schmedtmann** for his fantastic teaching and guidance throughout the course.  
 Check out his content here:  
 - GitHub: [@jonasschmedtmann](https://github.com/jonasschmedtmann)  
 - Udemy Course: [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=KEEPLEARNINGGB)
